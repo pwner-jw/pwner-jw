@@ -1,43 +1,41 @@
-# Let's create the README.md file content as per the previous response
-# 👋 Hello, I'm Jashn Wahi (pwner-jw)
-
-**Cybersecurity Specialist | SOC Analyst | Developer**
-
-Welcome to my GitHub! I’m a passionate cybersecurity practitioner with hands-on experience in SOC operations, web development, and coding across several languages, including C++, Python, and Java. My interests span from blue teaming and malware analysis to building security-focused tools, coding custom web apps, and delving into artificial intelligence.
-
-## 🛠️ Technical Skills and Expertise
-
-- **Programming Languages:** C++, Python, Java, Bash
-- **Web Development:** HTML, CSS, JavaScript, Flask, Docker, Nginx
-- **Cybersecurity Domains:**
-  - **SOC Operations:** Proficient in monitoring, incident response, and automated workflows using tools like Wazuh and Shuffle.
-  - **Web Application Security:** Experienced with ModSecurity WAF and vulnerability analysis.
-  - **Digital Forensics & Malware Analysis:** Skilled in DFIR processes, live system forensics, and network traffic analysis using tools like Wireshark.
-  - **Red Team & Penetration Testing:** Conducts thorough vulnerability assessments, LFI attacks, subdomain enumeration, and API testing.
-- **Development Environments:** Kali Linux, Ubuntu, MacOS, Visual Studio Code, WSL
-
-## 🔍 Projects and Research
-
-My GitHub hosts a range of cybersecurity projects, including but not limited to:
-
-- **SOC Automations:** Scripts and workflows designed to enhance SOC operations, incident response automation, and detection rule creation.
-- **Custom Honeypots:** A lab-developed honeypot that emulates Windows environments for testing intrusion detection and evasion techniques.
-- **Network Security:** Demonstrations and guides on network-level attacks, reconnaissance, and man-in-the-middle attacks.
-- **API Security Testing:** Frameworks and scripts to perform API testing and security assessments.
-- **Forensic Analysis Tools:** Tools to parse and analyze forensic artifacts from log files, disk images, and network traffic.
-
-## 🧩 Capture the Flag (CTF) and Challenges
-
-I frequently participate in CTFs and challenges to sharpen my skills in real-world scenarios. From reverse engineering and web exploitation to brute-forcing Telnet passwords with RockYou lists and analyzing complex log files, CTFs have been a significant part of my practical experience.
-
-## 🌐 Connect with Me
-
-Feel free to reach out or connect with me to discuss cybersecurity topics, share knowledge, or collaborate on projects!
-
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn]
-- **Twitter:** [Your Twitter handle]
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=$+whoami;Jashn+Wahi+(pwner-jw);Cybersecurity+Specialist;Red+Team+Enthusiast;CTF+Player" alt="Typing SVG" />
+</p>
 
 ---
 
-*Thank you for visiting my GitHub profile! Together, let’s build a more secure digital world.*
+### 🔥 focus.sh
+- 🌐 Web Application Security & Bug Bounty Hunting  
+- 🧠 Network Security & Active Directory Attacks  
+- 🎯 CTF Player (HackTheBox & TryHackMe)  
+- ⚡ SOC Operations & Homelab Automation  
+- 🔍 Curious Learner – always exploring offensive & defensive security  
+
+---
+
+### 🛠 technologies.sh
+
+**Cybersecurity**  
+VAPT · Web Application Security · SOC Monitoring · Red Teaming · DFIR · Malware Analysis  
+
+**Tools & Platforms**  
+Burp Suite · Nmap · Caido · Metasploit · SQLMap · Hydra · Snort · Wazuh · Suricata · BloodHound · Mimikatz · ffuf · gobuster · CrackMapExec · Impacket · Responder  
+
+**Scripting & Automation**  
+Python · Java · C++ · JavaScript · Bash · Shuffler · n8n · PowerShell  
+
+**Operating Systems**  
+Kali Linux · Ubuntu · RedHat · Windows (AD & Enterprise Environments)  
+
+---
+
+### 🌐 connect.sh
+<p align="center">
+  <a href="https://linkedin.com/in/jashn-wahi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black">
+  </a>
+</p>
+
+---
+
+<p align="center"><i>💡 Security = Knowing how to break it, to better defend it.</i></p>
